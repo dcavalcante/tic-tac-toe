@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-This is a Tic-Tac-Toe game implemented using React `useEffect` to keep track of turns. The second player (O) can be another human or an AI with different algorithms chosen from a select.
+Simple Tic-Tac-Toe game that uses React `useEffect` to keep track of turns. The second player (O) can be another human or an AI with different algorithms chosen from a select.
 
 ## Features
 
